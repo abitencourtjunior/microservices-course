@@ -21,3 +21,33 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+config-server/.mvn/wrapper/
+
+config-server/mvnw
+
+config-server/mvnw.cmd
+
+eureka-server/.mvn/wrapper/maven-wrapper.properties
+
+eureka-server/.mvn/wrapper/MavenWrapperDownloader.java
+
+eureka-server/mvnw
+
+eureka-server/mvnw.cmd
+
+loja/.mvn/wrapper/maven-wrapper.properties
+
+loja/.mvn/wrapper/MavenWrapperDownloader.java
+
+loja/bin/
+
+provider/bin/
+
+loja/mvnw
+
+loja/mvnw.cmd
+
+provider/mvnw
+
+provider/mvnw.cmd
